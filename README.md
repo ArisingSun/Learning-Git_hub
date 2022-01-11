@@ -14,3 +14,6 @@ git remote adds a reference to the repository created on github. use the ssh you
 
 now use:
 git remote add origin git@github.com:ArisingSun/Learning-Git_hub.git:
+
+git remote -v shows any remote repositories that are connected
+
